@@ -51,3 +51,5 @@ mmsi; msgtype;imo;vessel_name;callsign;shiptype_ais;v_length;v_width
 which looks like that
 229929000;5;9708875;AL ZUBARA;9HA3726;71;400;59
 230202000;5;8503503;STEEL;OIVR;70;167;27
+
+https://github.com/AIS-data/WPE_port_visits/blob/master/AIS_port_visits_geoDB.sql
