@@ -53,9 +53,9 @@ which looks like that
 230202000;5;8503503;STEEL;OIVR;70;167;27
 
 Create and use cases of spatio-temporal DB 
-1 Create DB tables : https://github.com/AIS-data/WPE_port_visits/blob/master/AIS_port_visits_geoDB.sql
-2 Port of Piraeus : https://github.com/AIS-data/WPE_port_visits/blob/master/Port_of_Piraeus.sql
-3 Port of Amsterdam, Rotterdam : https://github.com/AIS-data/WPE_port_visits/blob/master/Port_of_Amsterdam.sql
-4 Port of Swinoujscie : https://github.com/AIS-data/WPE_port_visits/blob/master/Port_of_Swinoujscie.sql
+1.Create DB tables : https://github.com/AIS-data/WPE_port_visits/blob/master/AIS_port_visits_geoDB.sql
+2.Port of Piraeus : https://github.com/AIS-data/WPE_port_visits/blob/master/Port_of_Piraeus.sql
+3.Port of Amsterdam, Rotterdam : https://github.com/AIS-data/WPE_port_visits/blob/master/Port_of_Amsterdam.sql
+4.Port of Swinoujscie : https://github.com/AIS-data/WPE_port_visits/blob/master/Port_of_Swinoujscie.sql
 
-5 Developer's and User's guide for port visits geo-solution using AIS : https://github.com/AIS-data/WPE_port_visits/blob/master/User_and_Dev_Guide_AIS_GEO_DB.pdf
+5.Developer's and User's guide for port visits geo-solution using AIS : https://github.com/AIS-data/WPE_port_visits/blob/master/User_and_Dev_Guide_AIS_GEO_DB.pdf
