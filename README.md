@@ -52,4 +52,10 @@ which looks like that
 229929000;5;9708875;AL ZUBARA;9HA3726;71;400;59
 230202000;5;8503503;STEEL;OIVR;70;167;27
 
-https://github.com/AIS-data/WPE_port_visits/blob/master/AIS_port_visits_geoDB.sql
+Create and use cases of spatio-temporal DB 
+Create DB tables : https://github.com/AIS-data/WPE_port_visits/blob/master/AIS_port_visits_geoDB.sql
+Port of Piraeus : https://github.com/AIS-data/WPE_port_visits/blob/master/Port_of_Piraeus.sql
+Port of Amsterdam, Rotterdam : https://github.com/AIS-data/WPE_port_visits/blob/master/Port_of_Amsterdam.sql
+Port of Swinoujscie : https://github.com/AIS-data/WPE_port_visits/blob/master/Port_of_Swinoujscie.sql
+
+Developer's and User's guide for port visits geo-solution using AIS : https://github.com/AIS-data/WPE_port_visits/blob/master/User_and_Dev_Guide_AIS_GEO_DB.pdf
