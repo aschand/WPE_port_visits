@@ -166,13 +166,13 @@ from
    FROM
      	(select b.mmsi as v_mmsi, b.imo as v_imo, b.vessel_name as v_name,b.day_when as arrival_day
                          from
-		(SELECT a.mmsi, v.imo, a.day_when, a.start_ts, a.end_ts, 
+		(SELECT a.mmsi, a.day_when, a.start_ts, a.end_ts, 
         		                a.geom1, a.geom2, a.duration_secs, 
 				a.dist, a.geo_segment, a.veloc, 
 				pr.name,
 				pr.geom,
 	   			 v.vessel_name,
-                                                            v.imo,
+                                  v.imo,
 	  			  v.shiptype_ais
 		            FROM  amsmovements_201703d2  a, 	---- movements table
 	   		    port_polys_ams pr,			 ---- tanker terminals (polygons) table
