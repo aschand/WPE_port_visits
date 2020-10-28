@@ -15,12 +15,19 @@ positions and distances of moving vessels, due to  geometry  viewer, are placed 
 fields connecting two events with different timestamps as for example previous and next position of a ship are supported in the same record , 
 tables with geometric shapes as records can be created  
 
----	Set up SSL connection to EC Dataplatform for PostgreSQL Database
+
+
+Set up SSL connection to EC Dataplatform for PostgreSQL Database
+===
            Before connecting to PostgreSQL Database, an SSL connection to EC Dataplatform has to be set up, following the steps below 
 1.	Invoke Command Prompt to your computer.
 2.	Change to drive C: ( Write c: , press Enter)
 3.	Write the command :
+
+```bash
 ssh  your_username@34.254.164.77 -L 127.0.0.1:54322:ed1ee5b82d3innd.cqurug5ll20q.eu-west-1.rds.amazonaws.com:5432 
+```
+
 
 Give your_password  (EC Dataplatform password)
 Then, minimize this screen (Do not exit or close it) and  proceed launching PgAdmin
